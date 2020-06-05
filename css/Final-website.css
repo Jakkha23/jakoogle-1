@@ -1,0 +1,93 @@
+.body {
+    margin: 0px;
+}
+.body-1 {
+    background-color:whitesmoke;
+}
+
+.navbar {
+    border: 2px solid black;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190727/pngtree-minimalistic-white-honeycomb-paper-cut-wind-business-background-image_285722.jpg);
+    margin: 0px;
+    position: fixed;
+    top: 0;
+}
+
+.jakoogle {
+    display: block;
+    text-align: center;
+    margin: 0px;
+}
+.jakoogle-1 {
+
+}
+
+.button-1 {
+    border: thin solid black);
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: xx-large;
+    background-color: transparent;
+    margin: 0px;
+    display: inline-block;
+    text-align: center;
+}
+
+.home {
+    color: rgb(184, 4, 4);
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+.button-2 {
+    border: thin solid black);
+    padding: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: xx-large;
+    background-color: transparent;
+    margin: 0px;
+    display: inline-block;
+}
+.memes {
+    color: rgb(184, 4, 4);
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+.button-3 {
+    border: thin solid black);
+    padding: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: xx-large;
+    background-color: transparent;
+    margin: 0px;
+    display: inline-block;
+}
+
+.dig-projects {
+    color: rgb(184, 4, 4);
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+.menu-3 {
+    text-align: left;
+    margin: 0px;
+}
+
+.inline {
+display: inline-block;
+margin: 0px;
+border: 0px;
+padding: 0;
+}
+
+.body-1 {
+    margin: 0px;
+    margin-top: 1%;
+    border: thin solid rgb(184, 4, 4);
+    border-radius: 10px;
+}
